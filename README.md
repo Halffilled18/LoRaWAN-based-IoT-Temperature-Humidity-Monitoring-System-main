@@ -59,6 +59,6 @@ This project is used by the following companies:
 
 [ Website](https://igscs.in/)
 
-![linkedin](https://www.linkedin.com/in/sourav-verma-/)
+[linkedin](https://www.linkedin.com/in/sourav-verma-/)
 
 
